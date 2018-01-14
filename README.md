@@ -1,4 +1,4 @@
-#ProjetoAparecidaNutrição
+# AparecidaNutrição
 
 Projeto desenvolvido durante o curso "JavaScript: Programando na linguagem da web" da plataforma Alura.
 
